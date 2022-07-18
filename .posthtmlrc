@@ -7,12 +7,244 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "In the year before the pandemic, Columbia spent more than twice as much on its men’s sports teams as on its women’s sports teams."
+          },
+          {
+            "type": "text",
+            "value": "For years, Columbia has maintained the<a href=\"https://www.columbiaspectator.com/sports/2018/03/08/left-behind-as-columbia-spending-rises-womens-sports-funding-stagnates-2/\"> greatest gender discrepancy in sports funding in</a> the Ivy League—a gap which has been widening for at least 10 years. Although Athletics funding and investment has grown in that time for both men’s and women’s sports, increases in funding for the former—including operating expenses, coach’s salaries, and recruiting expenses—have made up 73 percent of that growth, including millions dedicated solely to the football team."
+          },
+          {
+            "type": "text",
+            "value": "Women’s sports have received investments in recent years, but these funds are often recruited directly by alumni, as was the case with two of the athletic department’s most prominent recent gender equity efforts. First, a $2 million donor-funded equity endowment will aim to increase<a href=\"https://www.columbiaspectator.com/sports/2021/03/25/breaking-glass-ceilings-three-female-coaches-from-the-ivy-league-on-their-roles-and-hopes-for-the-future/\"> women’s coaching salaries</a> and put more money into hiring new coaches for Columbia’s women’s teams. Second, the Women’s Leadership Council, a fundraising and mentorship group that was founded in 2007, is continuing to grow and sponsor women’s sports-related projects; at the time of publication, it has raised over $7 million for the athletic department."
+          },
+          {
+            "type": "text",
+            "value": "Columbia has spent more on both its<a href=\"https://www.columbiaspectator.com/sports/2020/06/16/a-decade-in-athletics-marching-band-bans-the-rise-of-pilling-and-columbia-athletics-revolution/\"> men’s and women’s teams</a> each year for the past decade, growing from a total budget of $11.2 million in the 2010-11 season to one of $18.7 million in the 2018-19 season. This growth in support affects everything from the uniforms teams can buy to which competitions they can attend to which coaches they can hire."
+          },
+          {
+            "type": "text",
+            "value": "A budget can have an astronomical impact on a team’s performance, the experience of its athletes, and its chances of winning a championship, which is why Columbia’s disproportionality is so notable. For instance, budgets contribute to the quality of players that an institution can recruit; at Columbia, men’s teams are allocated 149 percent more than women’s teams for recruiting expenses, which includes funding for coach travel to identify potential recruits and for official visits, where Columbia pays for recruits to visit campus. Teams need coaches to lead them; head coach salaries are 83 percent higher for men’s team coaches than for women’s team coaches, while men’s<a href=\"https://www.columbiaspectator.com/sports/2020/10/27/amid-challenges-assistant-coaches-drive-every-athlete-forward/\"> assistant coach salaries</a> are 73 percent higher, disparities which reflect a nation-wide trend. Teams need equipment, uniforms, and funds to travel to competitions and book hotels, and play in the postseason; operating expenses are 74 percent greater for men than for women."
+          },
+          {
+            "type": "text",
+            "value": "On a per capita basis the numbers are closer, as Columbia has more male than female athletes—operating expenses per athlete, for instance, only favor men by 31 percent. The imbalance in the number of student-athletes has shrunk over the decade—but men’s teams still have an edge."
+          },
+          {
+            "type": "text",
+            "value": "Economics professor David Berri of Southern Utah University, who specializes in gender issues in sports economics, said that this funding is tied to the moral mission of a university, especially at an Ivy League school that does not rely on<a href=\"https://www.columbiaspectator.com/sports/2020/10/27/nostalgia-for-university-traditions-increases-alumni-donations-without-in-person-homecoming-those-contributions-will-suffer/\"> football or basketball income for profit</a> as some other Division I institutions do."
+          },
+          {
+            "type": "text",
+            "value": "“What’s the mission of the university? What are you trying to accomplish here?” Berri asked. “If you see this massive inequity, one of the things that you’re supposed to be standing up for is ending things like inequity. And so if you’re just perpetuating inequality, how are you helping? What’s the educational benefit of perpetuating inequity?”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "stackedbargraph-final.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "According to Athletic Director Peter Pilling, Columbia Athletics is looking to address the gap."
+          },
+          {
+            "type": "text",
+            "value": "“I really feel with a tremendous amount of confidence that we’ve recognized that we have work to do on this side, and we’re doing it,” Pilling said. “Are we to the finish line yet? No.”"
+          },
+          {
+            "type": "text",
+            "value": "The University has implemented a number of programs that benefit women’s sports, Pilling said, which do not necessarily show up in the team sport-specific data of Columbia’s Equity in Athletics Disclosure Act reports. For instance, he said, Columbia has recently promoted three assistant coaches for women’s teams from part-time to full-time. It has also invested in a variety of capital projects related to women’s teams such as renovations to women’s team locker rooms and facilities, and plans to replace fields for field hockey and softball in the future."
+          },
+          {
+            "type": "text",
+            "value": "In addition, Pilling noted that Columbia Athletics has begun<a href=\"https://www.columbiaspectator.com/sports/2021/03/22/from-bears-to-lions-the-creation-of-the-columbia-barnard-athletic-consortium/\"> recruiting more Barnard students</a> in recent years, although the current numbers lag behind the 91 Barnard student-athletes who participated at the beginning of the consortium in 1983. Pilling said he has been working with Barnard President Sian Beilock to expand numbers; currently, 37 athletes attend Barnard, up from 17 in 2016."
+          },
+          {
+            "type": "text",
+            "value": "Pilling also pointed to investments in projects that affect all athletes. Two-fifths of the athletic department’s budget goes to non-team expenses including facilities upgrades, nutritional support, and mental health support, which Pilling said had also been a major investment target."
+          },
+          {
+            "type": "text",
+            "value": "However, the majority of the budget is allocated to specific teams—spending which affects the daily lives of student-athletes. Some athletes have discussed having experiences on women’s teams different than those of their male counterparts, due in part to the amenities they can afford;<a href=\"https://www.columbiaspectator.com/sports/2018/03/08/left-behind-as-columbia-spending-rises-womens-sports-funding-stagnates-2/\"> one rower told Spectator in 2018</a> that her team took a 24-hour bus ride on its spring training trip while the men’s team flew."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "divergedbargraph.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In addition, individualized team spending has been used in an explicit effort to boost the resources and performance of one sport in particular, which stands alone in growth of investment. Over $5 million, or 16 percent, of the overall Columbia Athletics budget went to Columbia’s football team in the 2018-19 season—a number comparable to the $6 million spent on all women’s teams combined."
+          },
+          {
+            "type": "text",
+            "value": "Football spending has ballooned by 88 percent—or $2.4 million—since 2010. However, spending shot up even more steeply after 2015 when Pilling was hired as athletic director with a directive to<a href=\"http://features.columbiaspectator.com/sports/2015/04/16/inside-the-bagnoli-hire/\"> transform the football team</a>. He said that he was influenced by a<a href=\"https://www.columbiaspectator.com/sports/2015/02/18/-taylor-meeting-announce-findings-sign-progress-Columbia-Lions-football-program/\"> 2015 report by consultant Rick Taylor</a> on the future of football at Columbia, which proffered a simple solution, according to Spectator columnist Ryan Young, who saw Taylor present his report."
+          },
+          {
+            "type": "text",
+            "value": "“Taylor’s solution for many of the other tangible problems surprised me. It is, simply put, more money,” Young wrote. “It now seems that Columbia will make a larger financial commitment to football, especially in regard to compensation of the coaches. A salary boost … would draw higher-quality coaches, which is necessary to compete with the other Ivy programs.”"
+          },
+          {
+            "type": "text",
+            "value": "Pilling hired Penn legend Al Bagnoli, the winningest active football coach in college football, who accepted on the condition that Columbia substantially increase its spending on football, according to a<a href=\"https://www.nytimes.com/2015/09/17/sports/ncaafootball/at-columbia-al-bagnoli-is-building-from-the-bottom.html\"> New York Times story</a>. Football hired new coaches, expanded its recruiting budget, and ramped up its spending by 54 percent, over one million dollars, in the four years after Bagnoli’s hiring."
+          },
+          {
+            "type": "text",
+            "value": "Sport-by-sport spending on coach salaries is not publicly available, but since 2015, the average men’s head coach’s salary has grown by 38 percent. For women’s coaches, however, who faced significantly lower salaries to begin with, growth has been a fraction of that. And for struggling women’s sports such as<a href=\"https://www.columbiaspectator.com/sports/2020/05/03/a-decade-in-athletics-despite-a-mediocre-performance-lacrosse-showed-flashes-of-becoming-a-possible-ivy-league-contender/\"> lacrosse</a>, which won only two of 35 Ivy League games between 2010 and 2015, Columbia chose not to make a similarly gargantuan investment."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "salarylinegraph-final.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The decision to increase football’s budget followed two winless seasons and 24 consecutive losses. Since breaking a 25-game losing streak in 2015, lacrosse has not had a single winning season. However, according to Pilling, the rationale to focus spending on football was based in part on the belief that football would bring success and donations to other athletics programs, like lacrosse."
+          },
+          {
+            "type": "text",
+            "value": "“When we made an investment in football, we made an investment in everything,” Pilling said. While it is true that investment rose across the board, some of the investments—particularly, those for men’s sports—were greater quantitatively than others. And the question of which investments are prioritized in college athletics, Berri said, often can reflect historic power imbalances."
+          },
+          {
+            "type": "text",
+            "value": "“The issue is that the alumni are also primarily focused on men’s sports,” Berri said. “And so that’s what the athletic directors are going to hear about. The reason why they invest more in the men’s coaches [is] because that’s what the alumni talked about.”"
+          },
+          {
+            "type": "text",
+            "value": "Indeed, before Pilling’s hiring, football alumni had pushed for change, with some forming a group called the Committee for Athletic Excellence at Columbia to push for football reforms. University President Lee Bollinger even assured football alumni in an email that plans for rejuvenating a “disappointing” football team would be a “key topic of conversation” with athletic director candidates."
+          },
+          {
+            "type": "text",
+            "value": "The results have been mixed for the football team. Its 8-2 2017 season, capped by<a href=\"https://www.columbiaspectator.com/sports/2017/10/14/overtime-heroics-lift-football-over-penn-in-homecoming-game-extending-undefeated-streak/\"> a victory over Penn at Homecoming</a>, was a joyful success. Since then, the team has faded—it ended the season with a 3-7 performance in 2019. However, football also brings other benefits, according to Pilling. As the University’s flagship sport, it drew over 5,000 fans a game last fall on average and even more when it performed well."
+          },
+          {
+            "type": "text",
+            "value": "“If you go back and look at the year that we were competing for the championship, crowds were great,” Pilling said. “If you were talking to [Columbia College Dean James Valentini], he will tell you that there was a different buzz around campus, just because we’re in the New York Times and it was a good, feel-good story.”"
+          },
+          {
+            "type": "text",
+            "value": "And, he said, success in football and other high-profile programs, such as men’s and women’s basketball, reverberates into other programs and “enables our other programs to be successful.” For instance, Pilling noted that someone who comes to a football game and has a good experience may go on to attend other sports games, raising the profile of all Columbia sports."
+          },
+          {
+            "type": "text",
+            "value": "“I really view an investment in football as not football-specific. It’s an investment in our department,” Pilling said. “As the tide rises, we all rise together.”"
+          },
+          {
+            "type": "text",
+            "value": "It is unclear whether football fans end up translating into fans of other sports, and the<a href=\"https://www.columbiaspectator.com/sports/2020/11/24/basketball-fencing-face-significant-giving-day-losses-but-that-may-not-have-immediate-consequences/\"> significant decrease in donations</a> to the men’s basketball program during Giving Day 2020 seems to hint at a dimmer future for one of the University’s other high-profile programs. Still, football’s trials and tribulations have certainly garnered more media and fan attention than those of other Columbia sports. The question of the relationship between how high-profile a sport currently is and the investment that should be made in it has been crucial to a national conversation about gender equity in sports, such as the pay disparity for professional women’s sports players in leagues like the Women’s National Basketball Association compared to their male counterparts. College athletics has had its<a href=\"https://slate.com/culture/2021/03/ncaa-sexism-march-madness-basketball-tournament-sedona-prince.amp?__twitter_impression=true\"> own recent reckoning</a> with this with outrage over wildly different weight-lifting setups, food quality, and promotion for the men’s and women’s<a href=\"https://www.npr.org/2021/03/20/979596524/under-fire-the-ncaa-apologizes-and-unveils-new-weight-room-for-womens-tournament\"> March Madness competition</a>."
+          },
+          {
+            "type": "text",
+            "value": "At Columbia, funding between the men’s and women’s basketball teams has also been lopsided, albeit on a smaller scale. In 2019-20, the women’s team earned its first-ever Ivy League playoffs berth, drawing 777 fans a game, while the men’s team finished with a 6-24 record and a 13-game losing streak<a href=\"https://www.columbiaspectator.com/sports/2020/05/08/im-not-going-to-change-because-of-a-losing-record-why-the-mens-basketball-teams-faithful-keeps-coming-back/\"> drawing twice that number</a>. The men’s team received $1.5 million in funding while the women’s team received $1.1 million."
+          },
+          {
+            "type": "text",
+            "value": "“When you sit there and say men’s sports have a bigger audience, you should ask the next question, ‘Why do they have a bigger audience?’” Berri said. “It’s because you didn’t put resources in the women’s sports historically.”"
+          },
+          {
+            "type": "text",
+            "value": "However, the question of who puts resources into which sport is a tricky one to answer. Some income comes from ticket revenue and events put on by teams, although at Ivy League schools like Columbia, this number is relatively low. Instead, schools like Columbia rely heavily on a symbiotic relationship between alumni and sports teams, using athletics to engage alumni support and alumni support to power athletics."
+          },
+          {
+            "type": "text",
+            "value": "In 2020, Athletics raised $3 million on Giving Day alone. Athletics did not provide Spectator with more comprehensive data on donations, which are often given outside of that 24-hour window; often, sports teams will hold fundraisers to buy new equipment or pay to attend larger competitions. Donors can give to a general fund which is distributed among the entire athletic department or can support a specific sport. Of the donors associated with a single-gender sport, men’s teams raised 51 percent more than women’s sports."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "giving-day.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The dynamic relies on a couple of things. First and foremost, it relies on alumni like Natalia Christenson, BC ’11, who played tennis at Columbia and now serves as president of the Varsity C Club, an alumni organization that encourages members to give their “Time, Treasures, and Talent” to Columbia."
+          },
+          {
+            "type": "text",
+            "value": "Christenson describes the relationship between alumni and the school as a virtuous cycle. “If you do have a really positive experience as a student-athlete, I would imagine that the chances that you end up becoming [an] alum who feels strongly about giving back are higher.”"
+          },
+          {
+            "type": "text",
+            "value": "That experience, ironically, often is shaped by alumni donations. As a tennis player at Columbia, she said, she had an amazing experience. However, she was aware of discrepancies in funding between the women’s and men’s team during her time as a Lion. Currently, the men’s tennis team receives nearly double the per capita operating expense funding of the women’s team, a gap Pilling attributes to the expenses of traveling to and competing in championships—the men’s team regularly travels to the NCAA championships while the women’s team does not."
+          },
+          {
+            "type": "text",
+            "value": "“Perhaps the men’s team has been able to do more,” Christenson said. “They have this more powerful base and this higher level of funding than we do. I think at the end of the day, our experiences were very comparable, but I think there are probably places where they have a little bit more flexibility to do things because they have that financial backing in a way that we don’t.”"
+          },
+          {
+            "type": "text",
+            "value": "The reasons for this gap vary. First, the number of female alumni is simply lower—women have only been playing sports at Columbia for 38 years while men’s teams have century-long histories."
+          },
+          {
+            "type": "text",
+            "value": "“Our women’s sport coaches are given fundraising goals that are substantially less as a whole than our men’s sport coaches because we recognize the capacity for them to raise money just on the limitations of the number of alumni,” Pilling said. “And then we try to counterbalance that with the operational support we give each program and make sure that we look at operating budgets as close as we can, to help them accomplish things.”"
+          },
+          {
+            "type": "text",
+            "value": "Another factor, senior soccer player and Student-Athlete Advisory Committee co-president Cayla Davis said, is that male sports alumni tend to be better-off, which ties into broader gender inequity in the sports world. In addition, she and Christenson agreed, alums tend to give to the programs that they played in as students."
+          },
+          {
+            "type": "text",
+            "value": "“Men’s programs have been around a lot longer; they have a lot more alums and those alums tend to have deeper pockets,” Davis said. “If you look at the women’s programs, the very first women’s teams at Columbia, those women are just now reaching their peak earning, peak career years. And that’s just not the case for men … and that gives men’s teams a little bit of an advantage, at least in that respect.”"
+          },
+          {
+            "type": "text",
+            "value": "However, that advantage is lessening, as the first generation of female student-athletes at Columbia have begun to give back in force. And one woman has been working more to close the gap than most. Before Christenson even entered Columbia, Lisa Carnoy, CC ’89 and co-chair of Columbia’s board of trustees, took note of a different culture around giving between men’s and women’s sports alumni."
+          },
+          {
+            "type": "text",
+            "value": "“It wasn’t that I felt that women weren’t [as] involved as alums, it was that we hadn’t had a tradition of giving money to support women’s teams,” Carnoy, who ran track at Columbia, said."
+          },
+          {
+            "type": "text",
+            "value": "Before Carnoy co-founded the Women’s Leadership Council in 2007, Carnoy said, women’s sports raised only $50,000 one year—pennies for a school the size of Columbia. The council began fundraising work in earnest, engaging hundreds of alumni, and putting funding on a “very steep trajectory,” of which Carnoy is proud."
+          },
+          {
+            "type": "text",
+            "value": "Since its founding, the WLC has raised over $7 million, peaking most recently in 2018-19, when it raised over one million dollars. And along with the financial engagement of women’s alumni has come many of the projects Pilling has touted. According to Carnoy, funds have gone to locker room renovations for women’s basketball, new offices and facilities at the Campbell Sports Center, and more funding for trips and championships."
+          },
+          {
+            "type": "text",
+            "value": "Alumni engagement has also been crucial for securing perhaps the biggest-dollar item: a $2 million equity endowment to “directly support women’s sport coaching salaries,” raised from individual donor contributions, which will be used to draw head coaches to women’s teams."
+          },
+          {
+            "type": "text",
+            "value": "Although Athletics is currently on a hiring freeze and facing financial restrictions, it would use the funds going forward both to recruit and retain more competitive coaches for Columbia’s women’s sports. The pay gap between men’s and women’s coaches at Columbia is stark and has grown from a mere 28 percent gap in 2010-11 when both men’s and women’s coaches made substantially less. Athletics has not yet announced which teams these funds will be used for, and according to Pilling,they could include either hiring new coaches for teams that need them, putting coaches on long-term contacts, or increasing the salaries of currently employed coaches at the University."
+          },
+          {
+            "type": "text",
+            "value": "For Christenson, although she is aware of the current wide gap in funding, she is also hopeful for the future."
+          },
+          {
+            "type": "text",
+            "value": "“The dynamics at play are what they are. You can’t change what has historically been,” Christenson said. “You can only hope to shape the future.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Editor’s Note: A previous version of this article stated that Carnoy played soccer. Spectator regrets the error. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Sports Editor Clara Ence Morse can be contacted at clara.encemorse@columbiaspectator.com. Follow her on Twitter</i><a href=\"https://twitter.com/ccemorse?lang=en\"><i> @ccemorse</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics reporter Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "‘We have work to do’: examining Columbia Athletics’ persistent gender disparity in team funding",
+        "date": "March 26, 2021",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Clara-Ence-Morse/\">Clara Ence Morse</a>\nData reporting and graphics by <a href=\"https://www.columbiaspectator.com/contributors/Andrew-Park/\">Andrew Park</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1lApXIfQugeOl5sWYTTYgpqUI9b2JwdqmENgtOf6BXIU/edit#"
       }
     }
   }
